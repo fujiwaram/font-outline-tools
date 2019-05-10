@@ -37,8 +37,6 @@ def getPath():
     return path
 
 def getFontPath():
-    # https://github.com/adobe-fonts/source-han-sans/blob/release/LICENSE.txt
-    # https://github.com/adobe-fonts/source-han-sans/blob/release/OTF/Japanese/SourceHanSans-Light.otf
     return getPath() + 'font/SourceHanSans-Light.otf'
 
 def getOutputPath(filename):

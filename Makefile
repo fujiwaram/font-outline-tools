@@ -1,4 +1,4 @@
-NAME=get-font-outline
+NAME=font-outline-tools
 VERSION=0.1.0
 
 build:
